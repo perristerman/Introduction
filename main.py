@@ -1,2 +1,2 @@
-for i in range(10):
-  print(i)
+name = input("Hi! What's your name? ")
+print("Hello " + name)
